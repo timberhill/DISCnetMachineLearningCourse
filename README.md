@@ -47,7 +47,7 @@ In addition to the material in this git repository, I've also used materials fro
   + 11:30-1:00 _Jon_
     * Handling Data
   + 1:00-2:00
-    * Coffee
+    * Lunch
   + 2:00-3:30 _Niranjan_
     * Feature selection and Lasso
     * MLPs
@@ -64,23 +64,23 @@ In addition to the material in this git repository, I've also used materials fro
   + 9:30-11:00
     * Generalisation
       * Bias-Variance Dilema
-    * Ensemble Techniques
-      * Ada-boost, random forest
-  + 11:00-11:30
-    * Coffee
-  + 11:30-1:00
     * Kernel methods
       * SVM
       * kernels
+  + 11:00-11:30
+    * Coffee
+  + 11:30-1:00
+     * Ensemble Techniques
+      * Bagging, random forest and Boosting
   + 1:00-2:00
     * Lunch
   + 2:00-3:30
-    * Probabilistic techniques
-      * Gaussian Processes
+    * Bayesian Inference
   + 3:30-4:00
     * Coffee
   + 4:00-5:00
-    * Graphical Models, LDA, MCMC
+    * Probability Models
+      * Gaussian Processes and Naive Bayes
     * Homework
 - **Monday 3rd August 2020:** Deep Learning
   + *Leader: _Jonathon_
@@ -122,7 +122,7 @@ In addition to the material in this git repository, I've also used materials fro
 - **Tuesday 4th August 2020:** Practical Machine Learning
   + *Leaders: Prof Niranjan, Prof Prugel-Bennett and Dr Hare*
     * Workshop on data you provide
-    * We will look at:
+    * We will look at ([slides](https://github.com/jonhare/DISCnetMachineLearningCourse/blob/master/Friday/projects.pdf)):
       * Analyse the problem
       * Visualise the data
       * Cleaning the data
